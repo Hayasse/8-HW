@@ -1,0 +1,30 @@
+.friday {
+    color: red;
+}
+.friday:hover {
+    color: yellow;
+}
+.monday {
+    color: blue;
+}
+.monday:hover {
+    color: green;
+}
+.tuesday {
+    color: purple;
+}
+.tuesday:hover {
+    color: orange;
+}
+.wednesday {
+    color: cyan;
+}
+.wednesday:hover {
+    color: brown;
+}
+.thursday {
+    color: grey;
+}
+.thursday:hover {
+    color: black;
+}
